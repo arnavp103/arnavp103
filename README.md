@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
+<h2> 
+  Hey, I'm <i>Arnav Priyadarshi</i>
+</h2>
+</div>
 
-<!--
-**arnavp103/arnavp103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
++ Currently an AI and Analytics Intern at SAS.
++ Deeply interested in ML
++ Love building fullstack solutions 
++ Enjoy knowledge for knowledge's sake
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnavp103&show_icons=true&line_height=20&theme=radical" alt="arnavp103's Github Stats">
+
+</br>
+</br>
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
+</a>
+
+</div>
+
