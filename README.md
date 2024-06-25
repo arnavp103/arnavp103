@@ -3,13 +3,14 @@
   Hey, I'm <i>Arnav Priyadarshi</i>
 </h2>
 </div>
+</br>
 
-### About Me
 + Currently an AI and Analytics Intern at SAS.
 + Deeply interested in ML
 + Love building fullstack solutions 
 + Enjoy knowledge for knowledge's sake
 
+</br>
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnavp103&show_icons=true&line_height=20&theme=radical" alt="arnavp103's Github Stats">
