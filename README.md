@@ -16,10 +16,7 @@
 </br>
 
 <div align="center">
-  <!--
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnavp103&show_icons=true&line_height=20&theme=radical" alt="arnavp103's Github Stats">
-  -->
-  <img align="center" src="https://leetcard.jacoblin.cool/arnavp103?theme=nord&&ext=heatmap">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arnavp103&show_icons=true&line_height=20&theme=radical" alt="arnavp103's Github Stats">
   </br>
   </br>
 
